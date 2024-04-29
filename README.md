@@ -5,5 +5,5 @@ l'm Nihad from Azerbaijan, and l do content on Mobile design and development.I r
 ## Skills and Experience
 *⚛ React
 *📱 React Native
-*💻 HTML, CSS, JS
+*💻 HTML, CSS, JS,TS
 
